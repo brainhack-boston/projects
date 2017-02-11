@@ -4,7 +4,7 @@ title: Introduction to brainhacks
 date: 2017-02-10 16:59
 comments: true
 external-url:
-categories: Hackathons openscience 0
+categories: openscience 3rainhack
 ---
 
 Welcome to the Boston brainhack event. To get started, we provide a brief intro to hacking culture, to brainhacks, and outline how you can participate.

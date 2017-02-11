@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Submitting a project
+title: How to submit a project
 date: 2017-02-10 17:05
 comments: true
 external-url:
-categories: Hackathons openscience 0
+categories: 3rainhack
 ---
 
 For this Boston brainhack event, we are using [GitHub](https://github.com). Since GitHub is a common web service used in many software projects, it is useful to learn how to use it. Think of this as your intro to hacking.
@@ -52,3 +52,7 @@ pull request (GitHub jargon for asking us to review your proposal, and merge it 
 5. Send a pull request.
 
    Click on the `Propose new file` button. To truly understand how forks and pull requests work you will need to go through the GitHub guides.
+
+6. What happens next.
+
+   Once the project is submitted, someone from the admin team will review and accept the project. If you want to help with this process, let us know on the Slack channel. Once accepted it will show up on the project page.
