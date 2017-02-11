@@ -7,7 +7,9 @@ external-url:
 categories: Hackathons openscience 0
 ---
 
-<img src="/assets/hacker-chap2-intro.png" alt-text="Chap 2 introduction from Hackers" width="100%"/>
+Welcome to the Boston brainhack event. To get started, we provide a brief intro to hacking culture, to brainhacks, and outline how you can participate.
+
+<img src="{{ site.baseurl }}/assets/hacker-chap2-intro.png" alt-text="Chap 2 introduction from Hackers" width="100%"/>
 
 > From [Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition
 By Steven Levy](https://books.google.com/books?id=mShXzzKtpmEC&lpg=PP1&pg=PA23#v=onepage&q&f=false)

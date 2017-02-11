@@ -6,8 +6,8 @@ keywords: "Hacking, Neuroscience, Collaboration, Philosophy"
 biography: "The Boston brainhack is an event of <a href='http://events.brainhack.org/global2017/'>Brainhack Global</a>. Join us on <a href='https://brainhack-slack-invite.herokuapp.com/' target='_blank'>channel #bhg17-bos on the brainhack Slack team.</a>"
 colophon: "© 2017 Brainhack Boston. Adapted from <a href='https://github.com/hugoferreira/papyrus-theme'>Papyrus-theme</a>"
 
-baseurl: ""
-url: "https://brainhack-boston.github.io/projects/"
+baseurl: "/projects"
+url: "https://brainhack-boston.github.io/"
 
 github_username: brainhack-boston
 
