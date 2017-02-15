@@ -34,18 +34,19 @@ pull request (GitHub jargon for asking us to review your proposal, and merge it 
 
    You can use [this first post](https://raw.githubusercontent.com/brainhack-boston/projects/master/_posts/2017-02-10-intro-to-brainhacks.markdown) as an example. Here is a template:
 
-   ```
-    ---
-    layout: post
-    title: ENTER A TITLE FOR YOUR POST
-    date: YYYY-MM-DD HH:MM
-    comments: true
-    external-url:
-    categories: Keyword1 Keyword2 ...
-    ---
-
-    WRITE POST HERE using markdown.
-   ```
+   > ```
+   > ---
+   > layout: post
+   > title: ENTER A TITLE FOR YOUR POST
+   > date: YYYY-MM-DD HH:MM
+   > comments: true
+   > external-url:
+   > categories: Keyword1 Keyword2 ...
+   > ---
+   >
+   > WRITE POST HERE using markdown.
+   > ```
+   (make sure the header has no space in front of each line)
 
    The template has a header that you need to fill. You need to enter a title, date, and keywords for categories. Leave a blank line after the last '`---`', and then write your project description using [Markdown](https://guides.github.com/features/mastering-markdown/).
 
