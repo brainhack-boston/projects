@@ -17,3 +17,4 @@ Interested Parties:
  - Paul Wighton
  - Andre van der Kouwe
  - Monica Tomar
+ - Chris Madan
