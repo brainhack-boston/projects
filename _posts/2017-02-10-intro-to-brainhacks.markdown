@@ -28,3 +28,5 @@ Each brainhack event is somewhat unique, but they typically take the form of an 
 
 ## What can you do
 You can participate in many ways. You can [propose a project](../submitting-projects), work on a project with someone, present your own work and interests, give a tutorial, and so on.
+
+For organizing events like this here is [a guide to organizing brainhack events from the Neurobureau](https://thewinnower.com/papers/5577-a-step-by-step-guide-for-organizing-open-collaborative-brainhack-events)
