@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Regression testing with nipype!
+title: Regression testing (with nipype!)
 date: 2017-02-17 16:39
 comments: true
 external-url: 
