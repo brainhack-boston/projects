@@ -18,3 +18,5 @@ Interested Parties:
  - Andre van der Kouwe
  - Monica Tomar
  - Chris Madan
+ - Nick Schmansky
+ 
