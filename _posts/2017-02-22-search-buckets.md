@@ -16,3 +16,4 @@ a programmatic search routine.
 ### Interested
 
 * Satrajit Ghosh
+* Chris Madan
