@@ -21,5 +21,3 @@ Interested Parties:
  - Monika Tomar
  - Chris Madan
  - Nick Schmansky
-
-Github repo for this project: https://github.com/corticometrics/neuroimage-tensorflow
