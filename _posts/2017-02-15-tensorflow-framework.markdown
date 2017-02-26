@@ -12,12 +12,15 @@ We propose to develop a framework for using tensorflow in a neuroimaging setting
   - Converting neuroimaging data (`.nii.gz` format) into a format uasable by Tensorflow
   - Developing an example 3D convolutional neural network to label voxels
 
+[Project Repo](https://github.com/corticometrics/neuroimage-tensorflow)
+
 Interested Parties:
 
  - Paul Wighton
  - Andre van der Kouwe
- - Monica Tomar
+ - Monika Tomar
  - Chris Madan
  - Nick Schmansky
  - Rob Frost
  
+
