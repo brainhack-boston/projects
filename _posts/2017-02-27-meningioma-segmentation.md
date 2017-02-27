@@ -14,5 +14,9 @@ This project has two goals:
   1. to segment meningiomas in structural MR images and
   2. to assess state of brain after surgical removal of meningioma
 
+### Interested
 
-[[project repo](https://github.com/kaczmarj/meningioma)]
+* Jakub Kaczmarzyk
+* Kathy Wu
+
+[[project repository](https://github.com/kaczmarj/meningioma)]
