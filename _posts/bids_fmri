@@ -1,0 +1,26 @@
+---
+layout: post
+title: fmri analysis in bids format
+date: YYYY-MM-DD HH:MM
+comments: true
+external-url:
+categories: fmri nipype bids
+---
+
+# Brief description
+The fMRI datasets were collected from a group of 24 native English speakers before and after they learned a month of a foreign language.
+Two language tasks were collected at both times that allow analysis for longitudinal plasticity.
+
+# Hack wish list
+* convert DICOMS to BIDS format
+* convert openfMRI to BIDS format (the project has been mostly organized in the openfMRI format): 
+[openfmri2bids](https://github.com/INCF/openfmri2bids)
+* first-level, second-level univariate analysis
+* second-level multi-variate analysis (what pre-training fMRI features predict learning outcomes)
+
+# Interested parties
+* Zhenghan Qi
+* Marthias Goncalves
+* Smruti Padhy
+* Yoel Sanchez Araujo
+* Kevin Sitek
