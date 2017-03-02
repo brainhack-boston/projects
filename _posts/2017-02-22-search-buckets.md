@@ -17,3 +17,4 @@ a programmatic search routine.
 
 * Satrajit Ghosh
 * Chris Madan
+* Lee Tirrell
