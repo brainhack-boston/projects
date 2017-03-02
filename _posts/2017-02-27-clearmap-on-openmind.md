@@ -7,7 +7,7 @@ external-url:
 categories: lightsheet microscopy workflow mouse
 ---
 
-(ClearMap)[https://github.com/ChristophKirst/ClearMap] is a toolbox for the analysis and registration of volumetric data from cleared tissues. 
+[ClearMap](https://github.com/ChristophKirst/ClearMap) is a toolbox for the analysis and registration of volumetric data from cleared tissues. 
 This project will build a computing environment on OpenMind cluster and an easy to use ClearMap workflow. 
 
 
