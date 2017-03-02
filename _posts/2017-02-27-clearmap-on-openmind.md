@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ClearMap worflow on OpenMind
+title: ClearMap workflow on OpenMind
 date: 2017-02-27 
 comments: true
 external-url:
