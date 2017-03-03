@@ -4,7 +4,15 @@ title: Improving functional connectivity MRI reliability
 date: 2017-03-02 11:00
 comments: true
 external-url:
-categories: reliability reproducubility fcMRI MRI resting state
+categories: reliability reproducubility fcMRI MRI resting-state
 ---
 
 Improving functional connectivity MRI reliability
+
+
+## People
+
+- Koene Van Dijk
+- Julia Leonard
+- Yoel Sanchez-Araujo
+- Satrajit Ghosh
